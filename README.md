@@ -1,6 +1,6 @@
 # Dummy Registeration Form Deployed on Firebase using HTML5 and CSS
 
-[Navigate to Registration Form](https://registration-form-a1450.web.app)
+[--> Navigate to Registration Form](https://registration-form-a1450.web.app)
 
 ### FILES DISCRIPTION:-
 
